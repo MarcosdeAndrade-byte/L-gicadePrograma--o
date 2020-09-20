@@ -1,5 +1,8 @@
-# LógicadeProgramação
-//Exercícios sobre lógica de programação na linguagem portugol,repositório
-//criado através de tutoriais no Youtube.Como forma de iniciar na programação
-//estou fazendo um curso de lógica de programação na linguagem Portugol,segue
-//alguns problemas/exercícios.
+# LÃ³gicadeProgramaÃ§Ã£o
+//ExercÃ­cios sobre lÃ³gica de programaÃ§Ã£o na linguagem portugol,repositÃ³rio
+
+//criado atravÃ©s de tutoriais no Youtube.Como forma de iniciar na programaÃ§Ã£o
+
+//estou fazendo um curso de lÃ³gica de programaÃ§Ã£o na linguagem Portugol,segue
+
+//alguns problemas/exercÃ­cios.
